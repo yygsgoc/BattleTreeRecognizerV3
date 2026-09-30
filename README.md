@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 宝可梦对战树对手识别器 Battle Tree Recognizer (V3)
 
 针对《宝可梦 究极之日 / 究极之月》**对战树**的对手配置识别工具。
@@ -153,3 +154,7 @@ PyInstaller 打包的程序可能被部分杀软误报,添加信任即可(本项
 
 本项目仅用于个人学习与交流。数据来源于游戏实测整理。本项目采用 MIT License 开源。
 Pokémon、Nintendo、Game Freak、The Pokémon Company 等相关名称及内容的权利归各自权利人所有。本项目为非官方粉丝工具，与上述公司及 Azahar 项目无隶属或官方关联。
+=======
+# BattleTreeRecognizerV3
+OCR-based Battle Tree configuration recognizer for Pokémon Ultra Sun &amp; Ultra Moon, designed for use with the Azahar emulator.
+>>>>>>> origin/main
